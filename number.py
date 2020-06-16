@@ -1,6 +1,7 @@
 print(20+20)
 print(20-60)
 print(20*5)
+print(10/2)
 print(3 ** 10)
 
 
